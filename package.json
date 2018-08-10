@@ -1,0 +1,23 @@
+{
+  "name": "koa_in_azure",
+  "version": "1.0.0",
+  "description": "A Koa Node site deployed in Azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/persyl/koa_in_azure.git"
+  },
+  "author": "Per Lundkvist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/persyl/koa_in_azure/issues"
+  },
+  "homepage": "https://github.com/persyl/koa_in_azure#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
